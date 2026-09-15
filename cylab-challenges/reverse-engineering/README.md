@@ -1,5 +1,13 @@
 # Reverse Engineering Challenges
 
-This folder contains my sanitized write-ups for Reverse Engineering challenges completed through CyLab Security Academy.
+Challenges focused on understanding program behavior by examining source code and application logic.
 
-These challenges focus on examining source code, programs, binaries, and program behavior to understand how software works and identify security-relevant information.
+## Completed Challenges
+
+| Challenge | Main Concept |
+|---|---|
+| [VaultDoorTraining](vault-door-training.md) | Java source code and input-validation analysis |
+
+## Skills Practiced
+
+`Java` • `Source Code Analysis` • `Program Logic` • `Linux`
