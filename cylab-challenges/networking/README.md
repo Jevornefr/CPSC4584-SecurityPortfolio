@@ -1,5 +1,14 @@
 # Networking Challenges
 
-This folder contains my sanitized write-ups for Networking challenges completed through CyLab Security Academy.
+Hands-on challenges involving network connections, ports, remote services, and command-line networking tools.
 
-These challenges focus on network communication, protocols, ports, remote connections, and command-line networking tools used in cybersecurity.
+## Completed Challenges
+
+| Challenge | Main Concept |
+|---|---|
+| [Nice Netcat](nice-netcat.md) | Network communication and character encoding |
+| [What's a Net Cat?](whats-a-net-cat.md) | TCP connections using Netcat |
+
+## Skills Practiced
+
+`Netcat` • `TCP/IP` • `Ports` • `Linux` • `Remote Services`
