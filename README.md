@@ -100,9 +100,20 @@ CPSC4584-SecurityPortfolio/
 
 ## Security and Privacy
 
-This repository contains sanitized cybersecurity lab and challenge documentation.
+This is a public cybersecurity portfolio. All challenge and lab documentation in this repository is intentionally sanitized.
 
-Captured flags, passwords, credentials, private course evidence, sensitive screenshots, and other restricted information are intentionally excluded from this public repository.
+To maintain responsible security practices, this repository does not contain:
+
+- Captured challenge flags
+- Passwords or authentication credentials
+- API keys, tokens, or private keys
+- Private Blackboard evidence reports
+- Screenshots containing sensitive challenge information
+- Personally identifiable or restricted course information
+
+Private evidence required for course grading is maintained separately from this public repository.
+
+The write-ups in this portfolio focus on the security concepts, investigation methodology, tools used, and lessons learned rather than exposing challenge solutions or sensitive evidence.
 
 ## Learning Objective
 
